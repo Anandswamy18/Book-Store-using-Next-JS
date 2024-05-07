@@ -35,3 +35,14 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # Book-Store-using-Next-JS
+
+
+
+# Screen Shots
+![Screenshot 2024-05-07 131731](https://github.com/Anandswamy18/Book-Store-using-Next-JS/assets/130043485/c1d8c8f9-c362-4785-8f6c-98834cfc6500)
+
+![Screenshot 2024-05-07 132001](https://github.com/Anandswamy18/Book-Store-using-Next-JS/assets/130043485/5c208b7a-0208-4294-9483-c0906fee3fd5)
+
+
+
+
